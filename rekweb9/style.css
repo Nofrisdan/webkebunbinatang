@@ -1,0 +1,64 @@
+/* index */
+
+.collapse{
+    margin-left: 30%;
+}
+.collapse ul li{
+    margin-right: 30px;
+}
+.navbar-item{
+    border: 1px solid;
+}
+.tulisan{
+    font-size: 30px;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: -300px;
+    width: 900px;
+    text-align: center;
+    color: saddlebrown;
+}
+.input{
+    border: 3px solid;
+    position: absolute;
+    margin-top: 30px;
+    padding: 10px;
+    margin-left:1%;
+}
+.update{
+    margin-top: -30px;
+}
+.update .input{
+    background-color: white;
+}
+.navbarsatwa2{
+    border: 3px solid;
+    margin-top: 0px;
+}
+.posisitampilsatwa{
+    margin-left: 30%;
+    margin-top: 30px;
+}
+
+.tampilsatwa{
+    float: left;
+}
+.tampilsatwa .card{
+    border: 3px solid;
+    margin-left: 5px;
+}
+.conten{
+    margin-top: 30px;
+    border: 5px solid;
+    text-align: center;
+   width: 70%;
+   margin-left: 10%;
+}
+.page1{
+    margin-left: 5%;
+    margin-top: 50px;
+}
+.page1 img{
+    border: 5px solid blue;
+    margin-left: 15%;
+}
